@@ -1,0 +1,1 @@
+This is a copy of hello_world.txt. There were several years that passed since initial file was created. It was preferable to create a new file to coincide with the lesson plan from Odin Project.
